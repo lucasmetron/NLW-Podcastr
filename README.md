@@ -18,20 +18,13 @@
 - [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
 - [API](https://github.com/andrealvesz/PodcastrNext)
+- 
 ![Tela](./assets/gif/nlw.gif)
-
-<<<<<<< HEAD
-=======
-![Tela](./public/nlw.gif)
-
->>>>>>> 6ee24b3c9d5a6fee7352c71348fa9ca3684c8090
 
 ### Repositório: https://github.com/lucasmetron/NLW-Podcastr
 
 ### Gostou do meu projeto? :D Entre em contato comigo! 
 [Linkedin](https://www.linkedin.com/in/lucas-rosa-058683102/) <br/>
-<<<<<<< HEAD
 [Email: lucasmetron@gmail.com](mailto:lucasmetron@gmail.com)
-=======
 [Email: lucasmetron@gmail.com](mailto:lucasmetron@gmail.com)
->>>>>>> 6ee24b3c9d5a6fee7352c71348fa9ca3684c8090
+
