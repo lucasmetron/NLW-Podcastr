@@ -2,15 +2,12 @@
   <img src="./public/logo.svg" alt="Podcastr logo">
 </div>
 
-![Apresentation](https://user-images.githubusercontent.com/77129569/115946862-54d38800-a49a-11eb-94f0-aab75e02b316.gif)
+# Podcastr NLW 
+### - Projeto criado juntamente com a Rocketseat na semana NLW trilha React JS.
 
-## 💻 Project presentation
+### - Nesta semana pude aprender bastante sobre React JS juntamente com o Next.JS e pude entender o poder que o Next pode dar a sua aplicação com as criações de páginas dinâmicas e estáticas (SPA, SSR e SSG)
 
-Podcastr is a podcast platform, built during the next level week event - ReactJS trail
-
-## 🚀 Technologies
-
-Technologies used in the project
+### - Nesta aplicação foram usadas as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
@@ -18,9 +15,11 @@ Technologies used in the project
 - [Sass](https://sass-lang.com/)
 - [API](https://github.com/andrealvesz/PodcastrNext)
 
-## 🔖 Layout
-  You can view the project layout through the links below:
+![Tela inicial](./assets/gif/nlw.gif)
 
-  - [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
-  - Remembering that you need to have a [Figma](https://figma.com) account to access it.
 
+### Repositório: https://github.com/lucasmetron/NLW-Podcastr
+
+### Gostou do meu projeto? :D Entre em contato comigo! 
+[Linkedin](https://www.linkedin.com/in/lucas-rosa-058683102/) <br/>
+[Email: lucasmetron@gmail.com](mailto:lucasmetron@gmail.com)
