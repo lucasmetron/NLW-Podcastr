@@ -14,7 +14,6 @@
 - [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
 - [API](https://github.com/andrealvesz/PodcastrNext)
-
 ![Tela](./assets/gif/nlw.gif)
 
 
