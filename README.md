@@ -3,9 +3,8 @@
 </div>
 
 # Podcastr NLW 
-### - Projeto criado juntamente com a Rocketseat na semana NLW trilha React JS.
 
-### - Nesta semana pude aprender bastante sobre React JS juntamente com o Next.JS e pude entender o poder que o Next pode dar a sua aplicação com as criações de páginas dinâmicas e estáticas (SPA, SSR e SSG)
+### - Projeto criado juntamente com a Rocketseat na semana NLW trilha React JS.
 
 ### - Nesta semana pude aprender bastante sobre React JS juntamente com o Next.JS e entender o poder que o Next pode dar a sua aplicação com as criações de páginas dinâmicas e estáticas (SPA, SSR e SSG)
 
