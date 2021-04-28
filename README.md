@@ -15,7 +15,7 @@
 - [Sass](https://sass-lang.com/)
 - [API](https://github.com/andrealvesz/PodcastrNext)
 
-![Tela](./assets/gif/nlw.gif)
+![Tela](./public/nlw.gif)
 
 
 ### Repositório: https://github.com/lucasmetron/NLW-Podcastr
